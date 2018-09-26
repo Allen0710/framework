@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/ExceptionHandlingAsyncTaskExecutor.java" line="47" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89e7eebe-0c9e-42fe-9055-f58dedc81698" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/DisruptorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/DisruptorTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/framework-common/target/" />
+    <ignored path="$PROJECT_DIR$/framework-database/target/" />
+    <ignored path="$PROJECT_DIR$/framework-jms/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DisruptorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/DisruptorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongEvent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonEventFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventFactory.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/EventFactory.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonDisruptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonDisruptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonEventProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RingBuffer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/RingBuffer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockQueueTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/BlockQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonEventTranslator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventTranslator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventTranslatorOneArg.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/EventTranslatorOneArg.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log</find>
+      <find>aop</find>
+      <find>stop</find>
+      <find>Firehose</find>
+      <find>share</find>
+      <find>164</find>
+      <find>999</find>
+      <find>127</find>
+      <find>0</find>
+      <find>60</find>
+      <find>65</find>
+      <find>70</find>
+      <find>produce cost time</find>
+      <find>produce all</find>
+      <find>consume all cost</find>
+      <find>132</find>
+      <find>produce a</find>
+      <find>299</find>
+      <find>executor</find>
+      <find>99995</find>
+      <find>99998</find>
+      <find>produce all cost time</find>
+      <find>consume all cost time</find>
+      <find>LongEvent produce</find>
+      <find>take</find>
+      <find>produce</find>
+      <find>consumer1</find>
+      <find>produceLatch</find>
+      <find>get</find>
+      <find>10</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/framework-jms/src/main/java/com.shareit.framework.jms/sqs/SqsProducer.java" />
+        <option value="$PROJECT_DIR$/framework-jms/src/main/java/com.shareit.framework.jms/sqs/AbstractSqsConsumer.java" />
+        <option value="$PROJECT_DIR$/framework-jms/src/test/java/com/shareit/framework/jms/SqsTest.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/shareit/framework/common/ExceptionHandlingAsyncTaskExecutor.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/shareit/framework/common/EnableAsyncExceptionTask.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/shareit/framework/common/EnableExceptionAsync.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/shareit/framework/common/AsyncTaskConfiguration.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/ContextThreadLocalHolder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-database/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/scripts/tokenBucketLimit.lua" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/scripts/tokenBucketInitLimit.lua" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/scripts/lock.lua" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/scripts/counterLimit.lua" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/util/ScriptUtil.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/limit/configuration/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/limit/enums/Token.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/limit/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/RateLimitClient.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/configuration/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/rate/limit/AbstractRedisLimit.java" />
+        <option value="$PROJECT_DIR$/framework-jms/src/test/java/com/zyl/framework/jms/SqsTest.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/LongEventFactory.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/SimpleEventFactory.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/GenericsEventFactory.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/GenericsEventHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventProducerWithTranslator.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueBatchPublisher.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/Main.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractEventFactory.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonDisruptor.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractWorkHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEvent.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractEventHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/OneToOneSequencedThroughputTest.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueEvent.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueAdditionEventHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/queue/AbstractPerfTestQueue.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/queue/OneToOneQueueThroughputTest.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongEventHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongWorkerHandler.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/BlockQueueTest.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractEventTranslatorOneArg.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventTranslator.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventProducer.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongEvent.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventFactory.java" />
+        <option value="$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/DisruptorTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="framework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="framework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="framework-jms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="framework-jms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="disruptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zyl.framework.common.queue" />
+      <recent name="com.zyl.framework.common.test" />
+      <recent name="com.zyl.framework.common" />
+      <recent name="com.zyl.framework.common.disruptor" />
+      <recent name="com.zyl.framework.common.rate.limit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\framework\framework-common\src\main\scripts" />
+      <recent name="D:\Code\framework\framework-common\src\main\java\com\shareit\framework\common\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DisruptorTest">
+    <configuration name="BlockQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyl.framework.common.BlockQueueTest" />
+      <module name="framework-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyl.framework.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DisruptorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyl.framework.common.DisruptorTest" />
+      <module name="framework-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyl.framework.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyl.framework.common.test.Main" />
+      <module name="framework-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyl.framework.common.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SqsTest.consumerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="framework-jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shareit.framework.jms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.shareit.framework.jms" />
+      <option name="MAIN_CLASS_NAME" value="com.shareit.framework.jms.SqsTest" />
+      <option name="METHOD_NAME" value="consumerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SqsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="framework-jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shareit.framework.jms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.shareit.framework.jms" />
+      <option name="MAIN_CLASS_NAME" value="com.shareit.framework.jms.SqsTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SqsTest.consumerTest" />
+      <item itemvalue="JUnit.SqsTest.test" />
+      <item itemvalue="Application.DisruptorTest" />
+      <item itemvalue="Application.BlockQueueTest" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DisruptorTest" />
+        <item itemvalue="Application.BlockQueueTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SqsTest.test" />
+        <item itemvalue="JUnit.SqsTest.consumerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89e7eebe-0c9e-42fe-9055-f58dedc81698" name="Default" comment="" />
+      <created>1530693653431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530693653431</updated>
+      <workItem from="1530693655116" duration="13207000" />
+      <workItem from="1530756281487" duration="4473000" />
+      <workItem from="1530772565038" duration="625000" />
+      <workItem from="1531101993512" duration="2540000" />
+      <workItem from="1531136579616" duration="3562000" />
+      <workItem from="1531283834896" duration="584000" />
+      <workItem from="1531360953750" duration="596000" />
+      <workItem from="1531395452347" duration="24768000" />
+      <workItem from="1531810227911" duration="42000" />
+      <workItem from="1531811002674" duration="9000" />
+      <workItem from="1531811056055" duration="17000" />
+      <workItem from="1531896908894" duration="2815000" />
+      <workItem from="1532572531238" duration="12635000" />
+      <workItem from="1532658429533" duration="22200000" />
+      <workItem from="1532918343000" duration="19356000" />
+      <workItem from="1533521991114" duration="15081000" />
+      <workItem from="1533887178189" duration="593000" />
+      <workItem from="1533888422378" duration="1190000" />
+      <workItem from="1534212402791" duration="595000" />
+      <workItem from="1534302368377" duration="1958000" />
+      <workItem from="1534385000296" duration="969000" />
+      <workItem from="1534471477900" duration="598000" />
+      <workItem from="1534730987485" duration="616000" />
+      <workItem from="1536665602572" duration="3274000" />
+      <workItem from="1536890848516" duration="597000" />
+      <workItem from="1537433145970" duration="29644000" />
+      <workItem from="1537522205502" duration="3108000" />
+      <workItem from="1537841004351" duration="13954000" />
+      <workItem from="1537929090375" duration="11934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SimpleSqlConsumerTest_consumerTest - 2018.07.27 at 17h 15m 54s.xml">
+      <configuration name="SimpleSqlConsumerTest.consumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleSqlConsumerTest_consumerTest - 2018.07.27 at 17h 18m 40s.xml">
+      <configuration name="SimpleSqlConsumerTest.consumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleSqlConsumerTest_consumerTest - 2018.07.27 at 17h 19m 45s.xml">
+      <configuration name="SimpleSqlConsumerTest.consumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleSqlConsumerTest_consumerTest - 2018.07.27 at 17h 20m 52s.xml">
+      <configuration name="SimpleSqlConsumerTest.consumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleSqlConsumerTest_consumerTest - 2018.07.27 at 17h 21m 33s.xml">
+      <configuration name="SimpleSqlConsumerTest.consumerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlTest_test - 2018.07.27 at 17h 23m 32s.xml">
+      <configuration name="SqlTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlTest_test - 2018.07.27 at 17h 23m 58s.xml">
+      <configuration name="SqlTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlTest_test - 2018.07.27 at 17h 24m 32s.xml">
+      <configuration name="SqlTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlTest_test - 2018.07.27 at 17h 24m 59s.xml">
+      <configuration name="SqlTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlTest_test - 2018.07.27 at 17h 25m 53s.xml">
+      <configuration name="SqlTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="191540000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32824427" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32942432" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25299892" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2921147" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5796281" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27589968" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32715377" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25299892" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.17775354" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="LuaJ" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32824427" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3293348" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32942432" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.38219616" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32715377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="104" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/EventFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/dsl/EventHandlerGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/dsl/EventHandlerGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/EventFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/dsl/Disruptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/dsl/ConsumerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/dsl/EventProcessorInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="1774" column="22" selection-start-line="1774" selection-start-column="11" selection-end-line="1774" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="506" column="11" selection-start-line="506" selection-start-column="11" selection-end-line="506" selection-end-column="11" />
+          <folding>
+            <element signature="e#17388#17389#0" expanded="true" />
+            <element signature="e#17429#17430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1195" column="32" selection-start-line="1195" selection-start-column="32" selection-end-line="1195" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/SingleProducerSequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+          <folding>
+            <element signature="e#15215#15216#0" expanded="true" />
+            <element signature="e#15264#15265#0" expanded="true" />
+            <element signature="e#29802#29803#0" expanded="true" />
+            <element signature="e#29841#29842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/EventReleaseAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/WorkProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/WorkerPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/WorkHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/TestEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8421">
+          <caret line="401" column="30" selection-start-line="401" selection-start-column="30" selection-end-line="401" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/BatchEventProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="289" column="16" selection-start-line="289" selection-start-column="16" selection-end-line="289" selection-end-column="16" />
+          <folding>
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/dsl/ConsumerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/RingBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18501">
+          <caret line="936" column="21" selection-start-line="936" selection-start-column="21" selection-end-line="936" selection-end-column="21" />
+          <folding>
+            <element signature="e#8163#8164#0" expanded="true" />
+            <element signature="e#8202#8203#0" expanded="true" />
+            <element signature="e#11547#11548#0" expanded="true" />
+            <element signature="e#11608#11609#0" expanded="true" />
+            <element signature="e#35983#35984#0" expanded="true" />
+            <element signature="e#36026#36027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/Sequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/MultiProducerSequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3948">
+          <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/dsl/Disruptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7665">
+          <caret line="412" selection-start-line="412" selection-end-line="412" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/OneToOneSequencedThroughputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueAdditionEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="71" lean-forward="true" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/test/ValueBatchPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/queue/AbstractPerfTestQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/queue/OneToOneQueueThroughputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/AbstractWorkHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0-sources.jar!/com/lmax/disruptor/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongWorkerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/BlockQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/RingBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/EventTranslatorOneArg.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonDisruptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/LongEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/EventFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/main/java/com/zyl/framework/common/disruptor/CommonEventFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-common/src/test/java/com/zyl/framework/common/DisruptorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>framework-jms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-beans:5.0.6.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
