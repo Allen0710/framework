@@ -1,4 +1,0 @@
-com\shareit\framework\jms\RootConfiguration.class
-com\shareit\framework\jms\sqs\SqsProducer.class
-com\shareit\framework\jms\sqs\AbstractSqsConsumer$1.class
-com\shareit\framework\jms\sqs\AbstractSqsConsumer.class
