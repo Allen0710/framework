@@ -5,7 +5,7 @@ package com.zyl.framework.database;
  * 动态数据源holder
  */
 public final class DynamicDataSourceHolder {
-    private static final ThreadLocal<DynamicDataSourceGlobal> HOLDER = new ThreadLocal<DynamicDataSourceGlobal>();
+    private static final ThreadLocal<DynamicDataSourceGlobal> HOLDER = new ThreadLocal<>();
 
     private DynamicDataSourceHolder() {
         //
